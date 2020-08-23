@@ -7,5 +7,5 @@ def fizzbuzz(n)
     return "Buzz"
   elsif n / 15
     return "FizzBuzz"
-  end    
+  end
 end
